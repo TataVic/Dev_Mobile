@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="mauiapp.pag"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="PrimeiraPagina"
+    BackgroundColor="#f9b938">
+    <VerticalStackLayout Margin="25" BackgroundColor="White">
+
+        <Image Source="jogo.png" WidthRequest="100" />
+
+        <Label
+            x:Name="txtnumber"
+            Margin="20"
+            FontSize="Medium"
+            HorizontalOptions="Center"
+            Text="Roleta da Sorte"
+            TextColor="#f9b938"
+            VerticalOptions="Center" />
+
+        <Button
+            Margin="0,89,0,9"
+            BorderWidth="20"
+            Clicked="Clique"
+            HorizontalOptions="Center"
+            Text="Sortear" />
+    </VerticalStackLayout>
+</ContentPage>

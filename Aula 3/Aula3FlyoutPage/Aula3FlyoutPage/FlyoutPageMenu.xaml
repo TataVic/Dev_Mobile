@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage
+    x:Class="Aula3FlyoutPage.FlyoutPageMenu"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="FlyoutPageMenu"
+    xmlns:pages="clr-namespace:Aula3FlyoutPage"
+    FlyoutLayoutBehavior="Popover">
+
+    <FlyoutPage.Flyout>
+        <!-- página do menu -->
+        <pages:Menu/>
+    </FlyoutPage.Flyout>
+
+    <FlyoutPage.Detail>
+        <!-- página principal -->
+        <NavigationPage>
+            <x:Arguments>
+                <pages:Page1/> <!-- tres riscos para celular -->
+            </x:Arguments>
+        </NavigationPage>
+        <pages:Page1/>
+    </FlyoutPage.Detail>
+
+</FlyoutPage>
