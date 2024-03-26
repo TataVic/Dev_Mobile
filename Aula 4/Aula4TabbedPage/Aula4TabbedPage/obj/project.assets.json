@@ -32936,11 +32936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tauani\\Desktop\\MAUI - jojo\\Aula4TabbedPage\\Aula4TabbedPage\\Aula4TabbedPage.csproj",
+      "projectUniqueName": "C:\\Users\\Tauani\\Documents\\GitHub\\Dev_Mobile\\Aula 4\\Aula4TabbedPage\\Aula4TabbedPage\\Aula4TabbedPage.csproj",
       "projectName": "Aula4TabbedPage",
-      "projectPath": "C:\\Users\\Tauani\\Desktop\\MAUI - jojo\\Aula4TabbedPage\\Aula4TabbedPage\\Aula4TabbedPage.csproj",
+      "projectPath": "C:\\Users\\Tauani\\Documents\\GitHub\\Dev_Mobile\\Aula 4\\Aula4TabbedPage\\Aula4TabbedPage\\Aula4TabbedPage.csproj",
       "packagesPath": "C:\\Users\\Tauani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tauani\\Desktop\\MAUI - jojo\\Aula4TabbedPage\\Aula4TabbedPage\\obj\\",
+      "outputPath": "C:\\Users\\Tauani\\Documents\\GitHub\\Dev_Mobile\\Aula 4\\Aula4TabbedPage\\Aula4TabbedPage\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

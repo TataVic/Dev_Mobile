@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfwxldgYmi17FvQZN11QMBVmo02EBv9rCMNfJlUV0RE2RR71TD4SQs61sFnoCcZlWTQaXMe1g7G2sNk05rqHeQ==",
+  "dgSpecHash": "SuSr84yaPzAeiovzmTkCClXp4DJli5I7Cj78C/E0J2Ykgd/ZQytUnbAqcu8atfc4ppiXO+l2QvQyd81k/q4MUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tauani\\Desktop\\MAUI - jojo\\Aula3NavigationPage\\Aula3NavigationPage\\Aula3NavigationPage.csproj",
+  "projectFilePath": "C:\\Users\\Tauani\\Documents\\GitHub\\Dev_Mobile\\Aula 3\\Aula3NavigationPage\\Aula3NavigationPage\\Aula3NavigationPage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tauani\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\Tauani\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

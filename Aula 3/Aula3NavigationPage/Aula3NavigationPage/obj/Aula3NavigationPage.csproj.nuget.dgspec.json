@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tauani\\Desktop\\MAUI - jojo\\Aula3NavigationPage\\Aula3NavigationPage\\Aula3NavigationPage.csproj": {}
+    "C:\\Users\\Tauani\\Documents\\GitHub\\Dev_Mobile\\Aula 3\\Aula3NavigationPage\\Aula3NavigationPage\\Aula3NavigationPage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tauani\\Desktop\\MAUI - jojo\\Aula3NavigationPage\\Aula3NavigationPage\\Aula3NavigationPage.csproj": {
+    "C:\\Users\\Tauani\\Documents\\GitHub\\Dev_Mobile\\Aula 3\\Aula3NavigationPage\\Aula3NavigationPage\\Aula3NavigationPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tauani\\Desktop\\MAUI - jojo\\Aula3NavigationPage\\Aula3NavigationPage\\Aula3NavigationPage.csproj",
+        "projectUniqueName": "C:\\Users\\Tauani\\Documents\\GitHub\\Dev_Mobile\\Aula 3\\Aula3NavigationPage\\Aula3NavigationPage\\Aula3NavigationPage.csproj",
         "projectName": "Aula3NavigationPage",
-        "projectPath": "C:\\Users\\Tauani\\Desktop\\MAUI - jojo\\Aula3NavigationPage\\Aula3NavigationPage\\Aula3NavigationPage.csproj",
+        "projectPath": "C:\\Users\\Tauani\\Documents\\GitHub\\Dev_Mobile\\Aula 3\\Aula3NavigationPage\\Aula3NavigationPage\\Aula3NavigationPage.csproj",
         "packagesPath": "C:\\Users\\Tauani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tauani\\Desktop\\MAUI - jojo\\Aula3NavigationPage\\Aula3NavigationPage\\obj\\",
+        "outputPath": "C:\\Users\\Tauani\\Documents\\GitHub\\Dev_Mobile\\Aula 3\\Aula3NavigationPage\\Aula3NavigationPage\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
